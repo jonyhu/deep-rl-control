@@ -1,7 +1,7 @@
 [project]
 name = "deep-rl-control"
 version = "0.1.0"
-description = "Add your description here"
+description = "DQN variants (sequential, uniform, prioritized replay) on MinAtar Breakout + REINFORCE and Actor-Critic on CartPole. PyTorch from scratch."
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
