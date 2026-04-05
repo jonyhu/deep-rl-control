@@ -205,3 +205,13 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Results
+results/
+context/
+models/
+
+# Files with test
+#  If you have files that contain test code, you can add them here. For example:
+test*.py
+test*.ipynb
